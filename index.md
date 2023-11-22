@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 Dr. Le Zhang is an incoming Assistant Professor in School of Engineering, College of Engineering and Physical Sciences at the University of Birmingham, affiliated with Digital Healthcare and Medical Imaging Research Group. Dr. Zhang is now a Researcher at the University of Oxford since 2022. Before that, he was a Research Fellow at University College London since 2019 working with Prof. Daniel Alexander. Under the supervision of Prof. Alejandro F Frangi, he obtained his Ph.D. in Medical Image Computing from the University of Sheffield in 2019.
 
-## News
+## News:
 *   **October 2023:** I have been appointed as an Assistant Professor at the University of Birmingham.
 *   **Feburary 2023:** One journal paper accepted to Pattern Recognition.
 *   **December 2022:** One journal paper accepted to Pattern Recognition.
