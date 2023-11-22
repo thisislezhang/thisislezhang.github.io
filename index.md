@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home2
 title: About
 description: "Le Zhang's website"
 tags: [Jekyll, theme, responsive, blog, template]
