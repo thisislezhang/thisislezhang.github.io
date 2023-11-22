@@ -4,20 +4,19 @@ description:      Welcome to my site.
 url:              //thisislezhang.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: lezhang
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
+  name:           Le Zhang
   avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  bio:            I'm from a small town near Wuhan, China. Currently in Oxford, United Kingdom. Passionate about medical image computing, machine learning, travelling, and cooking.
+  email:          le.zhang@dph.ox.ac.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: thisislezhang
+  linkedin: thisislezhang
+  google_scholar: N3gALRkAAAAJ
+  github: thisislezhang
 # Analytics and webmaster tools stuff goes here
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
@@ -36,7 +35,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Europe/London
 future:      true
 #pygments:    true
 highlighter: rouge
