@@ -1,5 +1,6 @@
 ---
 layout: home2
+permalink: /index/
 title: About
 description: "Le Zhang's website"
 tags: [Jekyll, theme, responsive, blog, template]
