@@ -24,15 +24,15 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
- links:
-   - title: Research
-     url: /blog/
-   - title: People
-     url: /blog/
-   - title: Project
-     url: /blog/
-   - title: Publication
-     url: /blog/
+links:
+  - title: Research
+    url: /blog/
+  - title: People
+    url: /blog/
+  - title: Project
+    url: /blog/
+  - title: Publication
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
