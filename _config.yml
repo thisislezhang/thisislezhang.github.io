@@ -25,13 +25,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 # links:
-   - title: Curriculum
+   - title: Research
 #     url: /cv/
-   - title: Publications
+   - title: People
 #     url: /publications/
-   - title: Code
+   - title: Project
 #     url: /code/
-   - title: Blog
+   - title: Publication
 #     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
