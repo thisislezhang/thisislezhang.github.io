@@ -22,7 +22,7 @@ Dr. Le Zhang is an Assistant Professor in School of Engineering, College of Engi
 *   **June 2018:** One paper accepted to MICCAI 2018.
 
 ## Opening:
-Dr. Le Zhang is looking for PhD students and machine learning software engineer with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (le.zhang@dph.ox.ac.uk) if you are interested!
+Dr. Le Zhang is looking for PhD students and machine learning software engineer with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
 *   Foundation models for generalizable disease detection from retinal images
 *   Generative AI for Medical Imaging
 *   Multimodal learning for population health studies
