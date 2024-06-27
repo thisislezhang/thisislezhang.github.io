@@ -8,9 +8,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 Dr. Le Zhang is an Assistant Professor in School of Engineering, College of Engineering and Physical Sciences at the University of Birmingham, affiliated with Digital Healthcare and Medical Imaging Research Group. Dr. Zhang was a Postdoc Researcher at the University of Oxford since 2022. Before that, he was a Research Fellow at University College London since 2019 working with Prof. Daniel Alexander. Under the supervision of Prof. Alejandro F Frangi, he obtained his Ph.D. in Medical Image Computing from the University of Sheffield in 2019.
 
 ## News:
+*   **June 2024:** One paper accepted to Pattern Recognition.
+*   **April 2024:** One paper accepted to IEEE Transactions on artificial intelligence.
 *   **October 2023:** I have been appointed as an Assistant Professor at the University of Birmingham.
-*   **Feburary 2023:** One journal paper accepted to Pattern Recognition.
-*   **December 2022:** One journal paper accepted to Pattern Recognition.
+*   **Feburary 2023:** One paper accepted to Pattern Recognition.
+*   **December 2022:** One paper accepted to Pattern Recognition.
 *   **June 2022:** New job at the Big Data Institue, University of Oxford.
 *   **January 2021:** The extended version of our MICCAI 2019 paper on missing slice imputation has been published by MedIA.
 *   **September 2020:** One paper accepted to NeurIPS 2020.
@@ -18,11 +20,11 @@ Dr. Le Zhang is an Assistant Professor in School of Engineering, College of Engi
 *   **October 2019:** One of my MICCAI 2019 papers has been nominated for the Young Scientist Award.
 *   **June 2019:** Two papers with straight acceptance by MICCAI 2019.
 *   **May 2019:** I have moved to London and work as a postdoctral research fellow at University College London.
-*   **November 2018:** One journal paper accepted by IEEE Transactions on Biomedical Engineering.
+*   **November 2018:** One paper accepted by IEEE Transactions on Biomedical Engineering.
 *   **June 2018:** One paper accepted to MICCAI 2018.
 
 ## Opening:
-Dr. Le Zhang is looking for PhD students and machine learning software engineer with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
+Dr. Le Zhang is looking for PhD students and visiting scholars with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
 *   Foundation models for generalizable disease detection from retinal images
 *   Generative AI for Medical Imaging
 *   Multimodal learning for population health studies
