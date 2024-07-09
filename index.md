@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: About
-description: "Le Zhang's website"
+title: About * Vanguard AI Lab
+description: "Le Zhang's Lab"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
