@@ -10,7 +10,7 @@ comments: false
 
 All team members in Vanguard AI Lab, we have people from University of Birmingham, Queen Mary University of London, Imperial College London, Shanghai Tech University et al.
 
-### Team Leader
+### Principle Investigator
 
 * **Dr. Le Zhang**
  
