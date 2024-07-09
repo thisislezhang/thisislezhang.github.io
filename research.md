@@ -29,7 +29,14 @@ Recent years have seen increasing use of supervised learning methods for segment
 <br />
 
 
-### Web
+### Medical Image Quality Control
+
+Accurate ventricular volume measurements depend on complete heart coverage in cardiac magnetic resonance (CMR) from where most immediate indicators of normal/abnormal cardiac function are available non-invasively. However, incomplete coverage, especially missing basal or apical slices in CMR sequences is insufficiently addressed in population imaging and current clinical research studies yet has important impact on volume calculation accuracy. In this project, we adapt the generative machine learning model to generate missing CMR slices, following manual, semi- or fully-automatic quality control (QC). We present a novel, robust method for image imputation based on a generative adversarial network to infer missing slices, conditioned on information in adjacent image slices.
+<br />
+<br />
+<img align="middle" width="800" src="{{ site.url }}/images/IQA.jpg" alt="...">
+<br />
+<br />
 
 
 
