@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-All team members in Vanguard AI Lab, we have people from University of Birmingham, Queen Mary University of London, Imperial College London, Shanghai Tech University et al.
+Our team members and collabrators from University of Birmingham, John Hopkins University, Queen Mary University of London, Imperial College London, Shanghai Tech University et al.
 
 ### Principle Investigator
 
