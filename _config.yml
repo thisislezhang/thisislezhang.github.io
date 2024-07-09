@@ -32,7 +32,7 @@ links:
   - title: Project
     url: /index/
   - title: Publication
-    url: /index/
+    url: https://scholar.google.es/citations?hl=en&user=N3gALRkAAAAJ&view_op=list_works&sortby=pubdate
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
