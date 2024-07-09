@@ -16,12 +16,12 @@ All team members in Vanguard AI Lab, we have people from University of Birmingha
  
 ### PhD Students
 
-* **Anghong Du**
-* **Pengyao Qin**
-* **Junkai Liu**
-* **Siyou Li** (joint PhD program from Queen Mary University of London)
-* **Yihao Luo** (joint PhD program from Imperial College London)
-* **Tianli Tao** (joint PhD program from Shanghai Tech University)
+* **Mr. Du**
+* **Mr. Qin**
+* **Mr. Liu**
+* **Mr. Li** (joint PhD program from Queen Mary University of London)
+* **Mr. Luo** (joint PhD program from Imperial College London)
+* **Mr. Tao** (joint PhD program from Shanghai Tech University)
 
 ### Research Intern
 
