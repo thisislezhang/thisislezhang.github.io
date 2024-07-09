@@ -26,13 +26,13 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Research
-    url: /index/
+    url: /research/
   - title: People
-    url: /index/
+    url: /people/
   - title: Project
-    url: /index/
+    url: /project/
   - title: Publication
-    url: https://scholar.google.es/citations?hl=en&user=N3gALRkAAAAJ&view_op=list_works&sortby=pubdate
+    url: //https://scholar.google.es/citations?hl=en&user=N3gALRkAAAAJ&view_op=list_works&sortby=pubdate
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
