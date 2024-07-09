@@ -5,7 +5,7 @@ description: "Le Zhang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Vanguard AI Lab is affiliated with Digital Healthcare and Medical Imaging Research Group at the School of Engineering, University of Birmingham. Our group mainly studies machine learning on medical image analysis, natural language processing, computer vision, and specifically interested in the healthcare problem in cardiac, brain MRI/CT images. We also trying to explore other applied machine learning problems related to healthcare including physics, chemistry and et al.
+Vanguard AI Lab is affiliated with Digital Healthcare and Medical Imaging Research Group at the School of Engineering, University of Birmingham. Our lab mainly studies machine learning on medical image analysis, natural language processing, computer vision, and specifically interested in the healthcare problem in cardiac, brain MRI/CT images. We also trying to explore other applied machine learning problems related to healthcare including physics, chemistry and et al.
 
 ## News:
 *   **June 2024:** One paper accepted to Pattern Recognition.
