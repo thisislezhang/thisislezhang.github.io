@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About * Vanguard AI Lab
+title: Vanguard AI Lab
 description: "Le Zhang's Lab"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
