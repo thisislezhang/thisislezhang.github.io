@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: About
-description: "Le Zhang's Lab"
+title: About Le's Team
+description: "Le Zhang's Team"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
