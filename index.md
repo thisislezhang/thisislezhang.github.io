@@ -5,7 +5,7 @@ description: "Le Zhang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Dr. Le Zhang is an Assistant Professor in School of Engineering, College of Engineering and Physical Sciences at the University of Birmingham, affiliated with Digital Healthcare and Medical Imaging Research Group. Dr. Zhang was a Postdoc Researcher at the University of Oxford since 2022. Before that, he was a Research Fellow at University College London since 2019 working with Prof. Daniel Alexander. Under the supervision of Prof. Alejandro F Frangi, he obtained his Ph.D. in Medical Image Computing from the University of Sheffield in 2019.
+Vanguard AI Lab is affiliated with Digital Healthcare and Medical Imaging Research Group at the School of Engineering, University of Birmingham. Our group mainly studies machine learning on medical image analysis, natural language processing, computer vision, and specifically interested in the healthcare problem in cardiac, brain MRI/CT images. We also trying to explore other applied machine learning problems related to healthcare including physics, chemistry and et al.
 
 ## News:
 *   **June 2024:** One paper accepted to Pattern Recognition.
