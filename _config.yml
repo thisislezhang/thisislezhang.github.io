@@ -1,4 +1,4 @@
-title:            Le's Team
+title:            Le Zhang
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //thisislezhang.github.io
@@ -37,6 +37,8 @@ links:
   - title: Publication
     url: https://scholar.google.es/citations?hl=en&user=N3gALRkAAAAJ&view_op=list_works&sortby=pubdate
     external: true
+  - title: Teaching
+    url: /teaching/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
