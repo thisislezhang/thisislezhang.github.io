@@ -11,9 +11,10 @@ owner:
   name:           Le Zhang
   avatar:         IMG_9890.JPG
   bio:            Assistant Professor in Machine Learning/AI for Digital Healthcare, School of Engineering, College of Engineering and Physical Sciences, University of Birmingham.
+  location:       "University of Birmingham"
   email:          l.zhang.16@bham.ac.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  location: University of Birmingham
+  
   twitter: thisislezhang
   linkedin: thisislezhang
   google_scholar: N3gALRkAAAAJ
