@@ -7,8 +7,7 @@ modified: 3-10-2024
 comments: false
 ---
 
-
-The following projects are what my team is working on. Happy to receive suggestions and collabrations on these work.
+Le's research is focusing on computational modelling, pattern recognition, and machine learning for biomedical imaging and data analysis. His research aims to add understanding and capability in biomedicine by drawing on ideas from medical imaging, computer vision, data science, and machine learning. Much of his work focusses on Cardiac Magnetic Resonance Image Analysis, Multi-Modality Neuroimage Analysis, and Retinal Fundus Image Analysis. His research has been published in top conferences and journals in the fields of machine learning and medical image analysis, including NeurIPS, MICCAI, Medical Image Analysis and Patten Recognition, and nominated for the MICCAI Young Scientist Award in 2019.
 
 ### Generative AI for Medical Imaging
 
