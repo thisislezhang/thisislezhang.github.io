@@ -13,7 +13,6 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 ### Principle Investigator
 
 * **Dr. Le Zhang**
-> Dr. Le Zhang is an Assistant Professor at the School of Engineering, College of Engineering and Physical Sciences in the University of Birmingham. He was a Postdoc Researcher at the University of Oxford since 2022. Before that, he was a Research Fellow at University College London since 2019 working with Prof. Daniel Alexander. Under the supervision of Prof. Alejandro F Frangi, he obtained his Ph.D. in Medical Image Computing from the University of Sheffield in 2019.
  
 ### PhD Students
 
