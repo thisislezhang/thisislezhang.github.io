@@ -5,7 +5,14 @@ description: "Le Zhang's Team"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Le's team is affiliated with Digital Healthcare and Medical Imaging Research Group at the School of Engineering, University of Birmingham. Our lab mainly studies machine learning on medical image analysis, natural language processing, computer vision, and specifically interested in the healthcare problem in cardiac, brain MRI/CT images. We also trying to explore other applied machine learning problems related to healthcare in physics, chemistry and et al.
+Dr. Le Zhang is an Assistant Professor at the School of Engineering, College of Engineering and Physical Sciences in the University of Birmingham. He was a Postdoc Researcher at the University of Oxford since 2022. Before that, he was a Research Fellow at University College London since 2019 working with Prof. Daniel Alexander. Under the supervision of Prof. Alejandro F Frangi, he obtained his Ph.D. in Medical Image Computing from the University of Sheffield in 2019.
+
+## Research: 
+His research is focusing on computational modelling, pattern recognition, and machine learning for biomedical imaging and data analysis. His research aims to add understanding and capability in biomedicine by drawing on ideas from medical imaging, computer vision, data science, and machine learning. Much of his work focusses on Cardiac Magnetic Resonance Image Analysis, Multi-Modality Neuroimage Analysis, and Retinal Fundus Image Analysis. His research has been published in top conferences and journals in the fields of machine learning and medical image analysis, including NeurIPS, MICCAI, Medical Image Analysis and Patten Recognition, and nominated for the MICCAI Young Scientist Award in 2019.
+
+## Collaboration:  
+Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
+
 
 ## News:
 *   **June 2024:** One paper accepted to Pattern Recognition.
@@ -25,12 +32,6 @@ Dr. Le Zhang is looking for PhD students and visiting scholars with strong motiv
 *   Generative AI for Medical Imaging
 *   Multimodal learning for population health studies
 *   Computational imaging methods for population image
-
-## Research: 
-His research is focusing on computational modelling, pattern recognition, and machine learning for biomedical imaging and data analysis. His research aims to add understanding and capability in biomedicine by drawing on ideas from medical imaging, computer vision, data science, and machine learning. Much of his work focusses on Cardiac Magnetic Resonance Image Analysis, Multi-Modality Neuroimage Analysis, and Retinal Fundus Image Analysis. His research has been published in top conferences and journals in the fields of machine learning and medical image analysis, including NeurIPS, MICCAI, Medical Image Analysis and Patten Recognition, and nominated for the MICCAI Young Scientist Award in 2019.
-
-## Collaboration:  
-Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
 
 ## Selected Publication:
 *   Le Zhang, Ryutaro Tanno, Moucheng Xu, Yawen Huang, Kevin Bronik, Chen Jin, Joseph Jacob, Yefeng Zheng, Ling Shao, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander, Leaning to Segment from Multiple Annotators, Pattern Recognition, February, 2023.
