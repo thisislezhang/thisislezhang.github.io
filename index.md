@@ -15,6 +15,8 @@ Dr. Zhang has extensive collaborations with universities and industries both dom
 
 
 ## News:
+*   **Aug 2024:** One EPSRC funded PhD studentship awarded.
+*   **June 2024:** One EPSRC funded summer studentship awarded.
 *   **June 2024:** One paper accepted to Pattern Recognition.
 *   **April 2024:** One paper accepted to IEEE Transactions on artificial intelligence.
 *   **October 2023:** I have been appointed as an Assistant Professor at the University of Birmingham.
