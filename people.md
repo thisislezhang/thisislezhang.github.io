@@ -19,12 +19,14 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 * **Mr. Du**
 * **Mr. Qin**
 * **Mr. Liu**
+* **Mr. Dang**
 * **Mr. Li** (joint PhD program from Queen Mary University of London)
 * **Mr. Luo** (joint PhD program from Imperial College London)
 * **Mr. Tao** (joint PhD program from Shanghai Tech University)
 
 ### Research Intern
 
+* **Daoguo Song**
 * **Lucas Beveridge** (EPSRC funded)
 * **Wayne-Anthony Ezechukwu**
 * **Ashprit Mehra**
