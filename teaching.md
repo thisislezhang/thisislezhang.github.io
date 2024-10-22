@@ -1,8 +1,8 @@
 ---
-layout: teaching
-permalink: /teaching/
-title: Teaching
-tags: [teaching]
+layout: tewwaching
+permalink: /tewwaching/
+title: Teacwwhing
+tags: [teawwching]
 modified: 8-7-2014
 comments: false
 ---
