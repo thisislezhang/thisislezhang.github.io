@@ -16,6 +16,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
  
 ### PhD Students
 
+* **Nadia Lashram** (EPSRC funded)
 * **Mr. Du**
 * **Mr. Qin**
 * **Mr. Liu**
