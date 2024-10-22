@@ -15,6 +15,7 @@ Dr. Zhang has extensive collaborations with universities and industries both dom
 
 
 ## News:
+*   **Oct 2024:** A huge congratulations to my first year PhD student Pengyao Qin for securing the 2nd place in the DIAMOND challenge in MICCAI 2024.
 *   **Aug 2024:** One EPSRC funded PhD studentship awarded.
 *   **June 2024:** One EPSRC funded summer project studentship awarded.
 *   **June 2024:** One paper accepted to Pattern Recognition.
