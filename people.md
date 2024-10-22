@@ -17,13 +17,12 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 ### PhD Students
 
 * **Nadia Lashram** (EPSRC funded)
-* **Mr. Du**
-* **Mr. Qin**
-* **Mr. Liu**
-* **Mr. Dang**
-* **Mr. Li** (joint PhD program from Queen Mary University of London)
-* **Mr. Luo** (joint PhD program from Imperial College London)
-* **Mr. Tao** (joint PhD program from Shanghai Tech University)
+* **Anghong Du**
+* **Pengyao Qin**
+* **Junkai Liu**
+* **Chaohui Dang**
+* **Siyou Li** (joint PhD program from Queen Mary University of London)
+* **Tianli Tao** (joint PhD program from Shanghai Tech University)
 
 ### Research Intern
 
