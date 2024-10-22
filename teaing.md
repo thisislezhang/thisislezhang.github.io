@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Team Members
-tags: [people]
+title: Leading Modules
+tags: [teaching]
 modified: 3-10-2024
 comments: false
 ---
