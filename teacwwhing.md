@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-* LC Computing for Engineers (2024-2025)
-* LM Software and Systems (2024-2025)
+* LC Computing for Engineers (2024-2025)ww
+* LM Software and Systems (2024-2025)ww
 
 
