@@ -16,11 +16,11 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
  
 ### PhD Students
 
-* **Nadia Lashram** (EPSRC funded)
-* **Anghong Du**
-* **Pengyao Qin**
-* **Junkai Liu**
-* **Chaohui Dang**
+* **Nadia Lashram** (EPSRC funded: Dec 2024 -- )
+* **Anghong Du** (Sep 2024 -- )
+* **Pengyao Qin** (Sep 2024 -- )
+* **Junkai Liu** (Sep 2024 -- )
+* **Chaohui Dang** (Dec 2024 -- )
 * **Siyou Li** (joint PhD program from Queen Mary University of London)
 * **Tianli Tao** (joint PhD program from Shanghai Tech University)
 
@@ -28,8 +28,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 * **Daoguo Song**
 * **Lucas Beveridge** (EPSRC funded)
-* **Wayne-Anthony Ezechukwu**
-* **Ashprit Mehra**
+* **Yilin Liu**
 
 
 
