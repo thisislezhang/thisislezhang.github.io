@@ -18,14 +18,7 @@ Dr. Zhang has extensive collaborations with universities and industries both dom
 *   **Oct 2024:** A huge congratulations to my first year PhD student Pengyao Qin for securing the 2nd place in the DIAMOND challenge in MICCAI 2024.
 *   **Aug 2024:** One EPSRC funded PhD studentship awarded.
 *   **June 2024:** One EPSRC funded summer project studentship awarded.
-*   **June 2024:** One paper accepted to Pattern Recognition.
-*   **April 2024:** One paper accepted to IEEE Transactions on artificial intelligence.
 *   **October 2023:** I have been appointed as an Assistant Professor at the University of Birmingham.
-*   **Feburary 2023:** One paper accepted to Pattern Recognition.
-*   **December 2022:** One paper accepted to Pattern Recognition.
-*   **January 2021:** The extended version of our MICCAI 2019 paper on missing slice imputation has been published by MedIA.
-*   **September 2020:** One paper accepted to NeurIPS 2020.
-*   **June 2020:** One paper accepted to MICCAI 2020.
 *   **October 2019:** One of my MICCAI 2019 papers has been nominated for the Young Scientist Award.
 *   **June 2019:** Two papers with straight acceptance by MICCAI 2019.
 
