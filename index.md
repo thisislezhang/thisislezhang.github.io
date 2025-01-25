@@ -16,6 +16,7 @@ Dr. Zhang has extensive collaborations with universities and industries both dom
 
 ## News:
 *   **March 2025:** Our edited book "Generative Machine Learning Models in Medical Image Computing" published by Springer Cham is online.
+*   **Jan 2025:** One paper accepted by ISBI 2025.
 *   **Oct 2024:** A huge congratulations to my first year PhD student Pengyao Qin for securing the 2nd place in the DIAMOND challenge in MICCAI 2024.
 *   **Aug 2024:** One EPSRC funded PhD studentship awarded.
 *   **June 2024:** One EPSRC funded summer project studentship awarded.
