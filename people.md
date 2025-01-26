@@ -21,14 +21,12 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 * **Pengyao Qin** (Sep 2024 -- )
 * **Junkai Liu** (Sep 2024 -- )
 * **Chaohui Dang** (Dec 2024 -- )
-* **Siyou Li** (joint PhD program from Queen Mary University of London)
-* **Tianli Tao** (joint PhD program from Shanghai Tech University)
 
 ### Research Intern
 
-* **Daoguo Song**
 * **Lucas Beveridge** (EPSRC funded)
-* **Yilin Liu**
+* **Tianli Tao** (joint PhD program from Shanghai Tech University)
+* * **Siyou Li** (joint PhD program from Queen Mary University of London)
 
 
 
