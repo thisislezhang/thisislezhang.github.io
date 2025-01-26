@@ -26,7 +26,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 * **Lucas Beveridge** (EPSRC funded)
 * **Tianli Tao** (joint PhD program from Shanghai Tech University)
-* * **Siyou Li** (joint PhD program from Queen Mary University of London)
+* **Siyou Li** (joint PhD program from Queen Mary University of London)
 
 
 
