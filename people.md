@@ -18,7 +18,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 * **Nadia Lashram** (EPSRC funded: Dec 2024 -- )
 * **Anghong Du** (Sep 2024 -- )
-* **Pengyao Qin** (Sep 2024 -- )
+* **Pengyao Qin** (Nov 2024 -- )
 * **Junkai Liu** (Sep 2024 -- )
 * **Chaohui Dang** (Dec 2024 -- )
 
