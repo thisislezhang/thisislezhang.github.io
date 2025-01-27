@@ -13,10 +13,6 @@ His research is focused on computational modelling, pattern recognition, and mac
 <br>
 Dr. Le Zhang serves as an Honorary Research Fellow actively associated with the Centre for Advanced Cardiovascular Imaging at the William Harvey Research Institute, Queen Mary University of London. In this role, he collaborates closely with Dr. Nay Aung, Senior Clinical Lecturer and Consultant Cardiologist, and Prof. Steffen Petersen, Professor of Cardiovascular Medicine, to develop explainable machine learning and AI models leveraging the UK Biobank dataset. His work focuses on creating innovative computational approaches to improve the interpretability of AI-driven predictions in cardiovascular imaging, with the aim of enhancing clinical decision-making and advancing personalized medicine in cardiology.
 
-## Collaboration:  
-Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
-
-
 ## News:
 *   **March 2025:** Our edited book "Generative Machine Learning Models in Medical Image Computing" published by Springer Cham is online.
 *   **Jan 2025:** One paper accepted by ISBI 2025.
@@ -33,6 +29,9 @@ Dr. Le Zhang is looking for PhD students and visiting scholars with strong motiv
 *   Generative AI for Medical Imaging
 *   Multimodal learning for population health studies
 *   Computational imaging methods for population image
+
+## Collaboration:  
+Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
 
 ## Selected Publication:
 *   Le Zhang, Ryutaro Tanno, Moucheng Xu, Yawen Huang, Kevin Bronik, Chen Jin, Joseph Jacob, Yefeng Zheng, Ling Shao, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander, Leaning to Segment from Multiple Annotators, Pattern Recognition, February, 2023.
