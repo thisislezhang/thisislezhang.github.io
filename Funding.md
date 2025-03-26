@@ -2,7 +2,7 @@
 layout: page
 permalink: /Funding/
 title: Project Grants Awarded
-tags: [project]
+tags: [Funding]
 modified: 3-10-2024
 comments: false
 ---
