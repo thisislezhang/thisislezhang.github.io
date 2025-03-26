@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /project/
+permalink: /Funding/
 title: Project Grants Awarded
 tags: [project]
 modified: 3-10-2024
