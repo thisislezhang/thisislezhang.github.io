@@ -14,7 +14,7 @@ His research is focused on computational modelling, pattern recognition, and mac
 Dr. Le Zhang serves as an Honorary Research Fellow actively associated with the William Harvey Research Institute, Barts Heart Center, Barts Health NHS Trust, Queen Mary University of London. In this role, he collaborates closely with Dr. Nay Aung, Senior Clinical Lecturer and Consultant Cardiologist, and Prof. Steffen Petersen, Professor of Cardiovascular Medicine, to develop explainable machine learning and AI models leveraging the UK Biobank dataset. His work focuses on creating innovative computational approaches to improve the interpretability of AI-driven predictions in cardiovascular imaging, with the aim of enhancing clinical decision-making and advancing personalized medicine in cardiology.
 
 ## News:
-*   **April 2025:** I am serving as the guest edtor of the special issue: Computer Vision for Medical Image Analysis at the _Journal of Imaging_.
+*   **April 2025:** I am serving as the guest editor of the special issue: Computer Vision for Medical Image Analysis at the _Journal of Imaging_.
 *   **March 2025:** Our edited book "Generative Machine Learning Models in Medical Image Computing" published by Springer Cham is online.
 *   **Jan 2025:** One paper accepted by ISBI 2025.
 *   **Oct 2024:** A huge congratulations to my first year PhD student Pengyao Qin for securing the 2nd place in the DIAMOND challenge in MICCAI 2024.
