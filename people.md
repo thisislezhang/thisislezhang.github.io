@@ -16,11 +16,11 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
  
 ### PhD Students
 
-* **Miss Lashram** (EPSRC funded: Dec 2024 -- )
-* **Mr Dang** (Dec 2024 -- )
-* **Mr Qin** (Nov 2024 -- )
-* **Mr Liu** (Sep 2024 -- )
-* **Mr Du** (Sep 2024 -- )
+* **Nadia Lashram** (EPSRC funded: Dec 2024 -- )
+* **Chaohui Dang** (Dec 2024 -- )
+* **Pengyao Qin** (Nov 2024 -- )
+* **Junkai Liu** (Sep 2024 -- )
+* **Anghong Du** (Sep 2024 -- )
 
 ### Research Intern
 
