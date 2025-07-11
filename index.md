@@ -27,7 +27,7 @@ Dr. Le Zhang serves as an Honorary Research Fellow actively associated with the 
 
 ## Opening:
 Dr. Le Zhang is looking for PhD students, Research Master students (project only) and visiting scholars with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
-*   Foundation models for generalizable disease detection from retinal images
+*   Foundation models for generalizable medical image analysis
 *   Generative AI for Medical Imaging
 *   Multimodal learning for population health studies
 *   Computational imaging methods for population image
