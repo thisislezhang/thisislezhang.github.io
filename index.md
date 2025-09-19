@@ -15,6 +15,7 @@ Dr. Le Zhang serves as an Honorary Research Fellow actively associated with the 
 
 ## News:
 *   **Sep 2025:** Congratulations to Kedi Sun (MSc by Research) for securing the 3rd place in the Trauma THOMPSON Challenge at MICCAI 2025.
+*   **Sep 2025:** Congratulations to Zhejia Zhang (Final year BSc student) on the acceptance of his paper, which ranks within the top 16% of all submissions at MICCAI 2025 CARE challenge. 
 *   **June 2025:** Three papers are accepted by MICCAI 2025.
 *   **April 2025:** I am serving as the guest editor of the special issue: Computer Vision for Medical Image Analysis at the _Journal of Imaging_.
 *   **March 2025:** Our edited book "Generative Machine Learning Models in Medical Image Computing" published by Springer Cham is online.
