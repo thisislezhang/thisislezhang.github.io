@@ -32,7 +32,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 ### Research Intern
 
-* **Lucas Beveridge** (Final year BSc, School of Computer Science, University of Birmingham, EPSRC funded: July 2024 -- August 2024)
+* **Lucas Beveridge** (Final-year BSc, School of Computer Science, University of Birmingham, EPSRC funded: July 2024 -- August 2024)
 * **Tianli Tao** (PhD student, Kings College London, Sep 2025 -- )
 * **Siyou Li** (PhD student, Queen Mary University of London, Sep 2024 -- )
 
