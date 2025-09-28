@@ -30,7 +30,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 * **Zhi Chen** (Sep 2025 -- )
 
 
-### Research Intern & Collaborates
+### Research Intern & Collaborator
 
 * **Zhejia Zhang** (Final-year BSc student, School of Engineering, University of Birmingham, May 2025 -- August 2025, now MSc at the Northwestern University, USA.)
 * **Tianli Tao** (PhD student, Kings College London, Sep 2025 -- )
