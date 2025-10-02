@@ -24,7 +24,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 * **Junkai Liu** (Sep 2024 -- )
 * **Anghong Du** (Sep 2024 -- )
 
-### Research Master Students
+### MSc by Research Students
 
 * **Kedi Sun** (Sep 2025 -- )
 * **Zhi Chen** (Sep 2025 -- )
