@@ -16,6 +16,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
  
 ### PhD Students
 
+* **Kedi Sun** (Sep 2025 -- )
 * **Junjie Li** (Sep 2025 -- )
 * **Haofan Wu** (Sep 2025 -- )
 * **Nadia Lashram** (Dec 2024 -- )
@@ -26,7 +27,6 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 ### MSc by Research Students
 
-* **Kedi Sun** (Sep 2025 -- )
 * **Zhi Chen** (Sep 2025 -- )
 
 
