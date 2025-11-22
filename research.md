@@ -6,8 +6,11 @@ tags: [research]
 modified: 3-10-2024
 comments: false
 ---
-
+<br />
+<br />
 <img align="middle" width="800" src="{{ site.url }}/images/GenAI.gif" alt="...">
+<br />
+<br />
 
 ### Generative AI for Medical Imaging
 
