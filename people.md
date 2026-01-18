@@ -29,6 +29,10 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 * **Zhi Chen** (Sep 2025 -- )
 
+### Visiting Scholars
+
+* **Min Dong** (Oct 2025 --)
+
 
 ### Research Interns & Collaborators
 
