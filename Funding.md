@@ -7,6 +7,7 @@ modified: 3-10-2024
 comments: false
 ---
 
+* UoB Horizon Europe Development Grant (25/26)
 * 300,000 GPUh on the Dawn AIRR service awarded from UKRI (25/26)
 * UoB IMAGINE+ sandpit funding (25/26)
 * UoB-CSC PhD studentship (25/26) 
