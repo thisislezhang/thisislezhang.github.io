@@ -12,6 +12,8 @@ His research is focused on computational modelling, pattern recognition, and mac
 
 ## News
 - [05/2026] One paper accepted to PLOS Digital Health.
+- [03/2026] Horizon Europe Development Grant awarded from UoB.
+- [02/2026] 300,000 GPUh on the Dawn AIRR service awarded from UKRI.
 
 ## Opening
 Dr. Le Zhang is looking for PhD students, Research Master students (project only) and visiting scholars with strong motivation to work on the following research topics, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
