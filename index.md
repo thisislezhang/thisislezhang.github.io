@@ -10,6 +10,9 @@ Dr. Le Zhang is an Assistant Professor at the School of Engineering, College of 
 <br>
 His research is focused on computational modelling, pattern recognition, and machine learning for biomedical imaging and data analysis. His research aims to add understanding and capability in biomedicine by drawing on ideas from medical imaging, computer vision, data science, and machine learning. Much of his work focusses on Cardiac Magnetic Resonance Image Analysis, Multi-Modality Neuroimage Analysis, and Retinal Fundus Image Analysis. His research has been published in top conferences and journals in the fields of machine learning and medical image analysis, including NeurIPS, MICCAI, Medical Image Analysis and Pattern Recognition, and nominated for the **MICCAI Young Scientist Award** in 2019.
 
+## News
+[05/2026] One paper accepted to PLOS Digital Health.
+
 ## Opening
 Dr. Le Zhang is looking for PhD students, Research Master students (project only) and visiting scholars with strong motivation to work on reliable Medical AI, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
 
