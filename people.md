@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-Our team members and collabrators from University of Birmingham, John Hopkins University, Queen Mary University of London, Imperial College London, Shanghai Tech University et al.
+Our team members and collabrators from University of Birmingham, John Hopkins University, Queen Mary University of London, Imperial College London, Kings College London et al.
 
 ### Principle Investigator
 
