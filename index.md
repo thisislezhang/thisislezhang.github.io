@@ -16,7 +16,7 @@ His research is focused on computational modelling, pattern recognition, and mac
 - [02/2026] 300,000 GPUh on the Dawn AIRR service awarded from UKRI.
 
 ## Opening
-Dr. Le Zhang is looking for **PhD students**, **Research Master students** (project only) and **Visiting Scholars** with strong motivation to work on the following research topics, especially PhD students with CSC’s support potentially. Please feel free to drop an email (**l.zhang.16@bham.ac.uk**) if you are interested!
+I am looking for **PhD students**, **Research Master students** (project only) and **Visiting Scholars** with strong motivation to work on the following research topics, especially PhD students with CSC’s support potentially. Please feel free to drop an email (**l.zhang.16@bham.ac.uk**) if you are interested!
 
 
 ## Research Topics
