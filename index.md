@@ -11,6 +11,7 @@ Dr. Le Zhang is an Assistant Professor at the School of Engineering, College of 
 His research is focused on computational modelling, pattern recognition, and machine learning for biomedical imaging and data analysis. His research aims to add understanding and capability in biomedicine by drawing on ideas from medical imaging, computer vision, data science, and machine learning. Much of his work focusses on Cardiac Magnetic Resonance Image Analysis, Multi-Modality Neuroimage Analysis, and Retinal Fundus Image Analysis. His research has been published in top conferences and journals in the fields of machine learning and medical image analysis, including NeurIPS, MICCAI, Medical Image Analysis and Pattern Recognition, and nominated for the **MICCAI Young Scientist Award** in 2019.
 
 ## News
+- [08/2026] One paper accepted to Transactions on Machine Learning Research.
 - [05/2026] One paper accepted to PLOS Digital Health.
 - [03/2026] Horizon Europe Development Grant awarded from UoB.
 - [02/2026] 300,000 GPUh on the Dawn AIRR service awarded from UKRI.
