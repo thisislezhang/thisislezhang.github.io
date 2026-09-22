@@ -16,6 +16,8 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
  
 ### PhD Students
 
+* **Yue Tong** (Sep 2026 -- )
+* **Jianwei Ren** (Sep 2026 -- )
 * **Kedi Sun** (Sep 2025 -- )
 * **Junjie Li** (Sep 2025 -- )
 * **Haofan Wu** (Sep 2025 -- )
