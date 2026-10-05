@@ -33,7 +33,7 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 
 ### Visiting Scholars
 
-* **Min Dong** (Oct 2025 --)
+* **Min Dong** (Oct 2025 -- Oct 2026)
 
 
 ### Research Interns & Collaborators
