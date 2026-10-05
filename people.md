@@ -23,13 +23,13 @@ Our team members and collabrators from University of Birmingham, John Hopkins Un
 * **Haofan Wu** (Sep 2025 -- )
 * **Nadia Lashram** (Dec 2024 -- )
 * **Chaohui Dang** (Dec 2024 -- )
-* **Pengyao Qin** (Nov 2024 -- )
 * **Junkai Liu** (Sep 2024 -- )
 * **Anghong Du** (Sep 2024 -- )
 
 ### MSc by Research Students
 
 * **Zhi Chen** (Sep 2025 -- )
+* **Pengyao Qin** (Nov 2024 -- )
 
 ### Visiting Scholars
 
