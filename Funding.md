@@ -7,6 +7,7 @@ modified: 3-10-2024
 comments: false
 ---
 
+* MRC Proximity to Discovery and Impact fund (26/27)
 * UoB QR Research and Knowledge Exchange Fund (26/27)
 * UoB Horizon Europe Development Grant (25/26) 
 * 300,000 GPUh on the Dawn AIRR service awarded from UKRI (25/26)
